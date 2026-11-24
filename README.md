@@ -1,6 +1,6 @@
 # Hi, I'm Jakob
 
-I study business administration in Münster and start the M.S. in Technology Management at Columbia University in September 2027. I keep thinking about how companies will work once AI is part of every team, and especially about the knowledge that only exists in people's heads.
+I study business administration in Münster, Germany, and start the M.S. in Technology Management at Columbia University in September 2027. I keep thinking about how companies will work once AI is part of every team, and especially about the knowledge experienced people carry, and how a company can share it so others can build on it.
 
 I build my own software with AI coding agents. I decide what the product should do and how it is built, and I orchestrate the agents that write the code.
 
